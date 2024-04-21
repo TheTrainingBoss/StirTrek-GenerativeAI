@@ -1,6 +1,11 @@
 # Stir Trek - GenerativeAI
 This is the repo for the May 4th 2024 All day Workshop for Stir Trek in Columbus, Ohio.
 
+## Presenters
+
+![Lino Tadros](media/Lino-Tadros.jpg)
+![Carey Payette](media/Carey-Payette.jpg)
+
 ## Introduction
 “Generative AI is easy!” Look at ChatGPT, you ask a question, you get an answer! How difficult could it be?
 Well, for you as an individual, it is very easy and simple to use, but for an enterprise to allow the use of Generative AI, it is very involved to make sure all the pieces involved are secure, scalable, and extensible. There are servers, clusters, APIs, Agents, Datasources, Prompts, Orchestrators, Embedding Models, Vectorization Databases, and many other endpoints that must be put in place and secured to provide reliable answers to questions using Generative AI in a private and secure setting for an organization.
