@@ -1,6 +1,6 @@
 # Stir Trek - GenerativeAI
 This is the repo for the May 4th 2024 All day Workshop for Stir Trek in Columbus, Ohio.
-
+![](media/StirTrek-logo.png)
 ## Presenters
 |Lino Tadros|Carey Payette|
 |---|---|
@@ -30,3 +30,6 @@ Well, for you as an individual, it is very easy and simple to use, but for an en
 |3:45 - 4:15|Lab 4 RAG Fundamentals|
 |4:15 - 4:45|Embeddings & Vectorization|
 |4:45 - 5:00|Lab 5 Embeddings and Vectorization and final wrap up.|
+
+## I hope you enjoyed the Workshop!
+### Looking forward to seeing you in next year's StirTrek!
