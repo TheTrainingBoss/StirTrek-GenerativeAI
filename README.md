@@ -2,9 +2,9 @@
 This is the repo for the May 4th 2024 All day Workshop for Stir Trek in Columbus, Ohio.
 
 ## Presenters
-
-![Lino Tadros](media/Lino-Tadros.jpg)
-![Carey Payette](media/Carey-Payette.jpg)
+|Lino Tadros|Carey Payette|
+|---|---|
+|![Lino Tadros](media/Lino-Tadros.jpg)|![Carey Payette](media/Carey-Payette.jpg)|
 
 ## Introduction
 “Generative AI is easy!” Look at ChatGPT, you ask a question, you get an answer! How difficult could it be?
